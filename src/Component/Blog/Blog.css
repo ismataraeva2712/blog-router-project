@@ -1,0 +1,14 @@
+.blog-container {
+    display: flex;
+
+}
+
+.blog-container img {
+    width: 70%;
+    border: 1px solid lightblue;
+    border-radius: 15px;
+}
+
+.blog-content {
+    width: 50%;
+}
